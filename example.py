@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-#author @aryantn
-num1 = 15
-num2 = 12
-
-sum = num1 + num2
-
-print("Sum of", num1, "and", num2 , "is", sum)
-=======
-=======
-#author @PlatJack
 def factorial(n):
     if n == 1:
         return 1
@@ -27,23 +15,35 @@ print("aaj khane me kolhapuri paneer milega")
 # author @VinayakRai5
 
 print ("Hello Friyesh")
-<<<<<<< HEAD
->>>>>>> 1406cdab4ef483b562190be5256bef56aa951d45
-=======
-
+        
 # author @Gacha76
 def sum(a, b):
     return a+b
 
+# author @priyeshgupta14
+
+def dada_chalte_to_mass(no_of_steps):
+    for dada in range(0,no_of_steps):
+        print("Mai nikla gaddi leke eheee {} mod aaya".format(dada))
+
+dada_chalte_to_mass(6)
 k = 6
 j = k + 6
 print("aaj khane me kolhapuri paneer milega")
+def add(a,b):
+    return float(a+b)
 
 
+# author @AayushiPadia
+def sub(a,b):
+    return float(a-b)
+
+def multiply(a,b):
+    return float(a*b)
 
 
-#author @AayushiPadia
-
-def sub(a, b):
-    return a-b
->>>>>>> a3ed4a97206dcf8692bd896617b12c12ca591ca7
+def divide(a,b):
+    return float(a/b)
+#Author @Vivaan Sharma
+def pow(a,b):
+    return a**b
