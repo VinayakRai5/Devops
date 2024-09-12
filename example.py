@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #author @aryantn
 num1 = 15
 num2 = 12
@@ -7,6 +8,22 @@ sum = num1 + num2
 
 print("Sum of", num1, "and", num2 , "is", sum)
 =======
+=======
+#author @PlatJack
+def factorial(n):
+    if n == 1:
+        return 1
+    return n * factorial(n - 1)
+
+n = int(input())
+print (factorial(n))
+
+# author @Friyesh
+
+k = 6
+j = k + 6
+print("aaj khane me kolhapuri paneer milega")
+>>>>>>> d02a11823fe1df83b19ef8bd388abdfa3b52249c
 # author @VinayakRai5
 
 print ("Hello Friyesh")
