@@ -9,3 +9,11 @@ def sum(a, b):
 k = 6
 j = k + 6
 print("aaj khane me kolhapuri paneer milega")
+
+
+
+
+#author @AayushiPadia
+
+def sub(a, b):
+    return a-b
