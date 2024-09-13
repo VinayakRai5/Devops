@@ -46,6 +46,6 @@ def multiply(a,b):
 
 def divide(a,b):
     return float(a/b)
-
+#Author @Vivaan Sharma
 def pow(a,b):
     return a**b
