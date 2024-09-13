@@ -10,3 +10,15 @@ print (factorial(n))
 k = 6
 j = k + 6
 print("aaj khane me kolhapuri paneer milega")
+# author @VinayakRai5
+
+print ("Hello Friyesh")
+
+
+
+
+
+#author @AayushiPadia
+
+def sub(a, b):
+    return a-b
