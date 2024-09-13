@@ -7,6 +7,6 @@ def factorial(n):
 n = int(input())
 print (factorial(n))
 
-# author @VinayakRai5
-
-print ("Hello Friyesh")
+k = 6
+j = k + 6
+print("aaj khane me kolhapuri paneer milega")
